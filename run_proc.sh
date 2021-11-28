@@ -1,3 +1,4 @@
+#!/bin/bash
 file_name_prefix=process_
 process_count=5
 sleep_time=5
