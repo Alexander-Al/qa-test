@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 file_name_prefix=process_
 process_count=5
 sleep_time=5
