@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 process_name_prefix=Custom-Process_
 process_count=5
 sleep_time=360
